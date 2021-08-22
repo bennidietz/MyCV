@@ -6,12 +6,33 @@
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a742a3b2-1d83-42c5-8e7d-a313a8c0773b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="30dafa6b-bed2-413b-ab47-220e577fc653" name="Default Changelist" comment="Enhancements">
+      <change beforePath="$PROJECT_DIR$/build/web/.last_build_id" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/.last_build_id" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/NOTICES" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/NOTICES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/assets/fonts/MaterialIcons-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/flutter_service_worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/flutter_service_worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/web/main.dart.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/web/main.dart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/presentation/dashboard_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/presentation/dashboard_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,61 +48,173 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="KotlinMultiplatform">
     <allAvailableExecutables />
   </component>
-  <component name="ProjectId" id="1wbNkOJ9d8cZFmhAB5xbRVvLwdz" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectId" id="1vm83I0SHJkDTW38As8oUcjuGiQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/network/model/formmodel" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin.scripting" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/fonts" />
-      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/android/app" />
+      <recent name="$PROJECT_DIR$/lib/network" />
+      <recent name="$PROJECT_DIR$/lib/model" />
+      <recent name="$PROJECT_DIR$/lib/presentation/widgets/dialogs" />
+      <recent name="$PROJECT_DIR$/lib" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/lib/network/model/formmodel" />
+      <recent name="$PROJECT_DIR$/lib/network/repository" />
+      <recent name="$PROJECT_DIR$/lib/network/state" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib/presentation/widgets" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a742a3b2-1d83-42c5-8e7d-a313a8c0773b" name="Default Changelist" comment="" />
-      <created>1628723471042</created>
+      <changelist id="30dafa6b-bed2-413b-ab47-220e577fc653" name="Default Changelist" comment="" />
+      <created>1627155702452</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1628723471042</updated>
+      <updated>1627155702452</updated>
     </task>
-    <task id="LOCAL-00001" summary="commit">
-      <created>1629661986741</created>
+    <task id="LOCAL-00001" summary="Some HUGE enhancements">
+      <created>1627177732351</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1629661986741</updated>
+      <updated>1627177732351</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes">
+      <created>1627311529092</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627311529092</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes">
+      <created>1627328008382</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627328008382</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Changes">
+      <created>1627331184941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1627331184941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes">
+      <created>1627494441239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1627494441239</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Firebase initialization">
+      <created>1627585621738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1627585621739</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Link API">
+      <created>1627588524091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1627588524091</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Initial app">
+      <created>1627844668943</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1627844668944</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Authentification">
+      <created>1627850374494</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1627850374494</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Advances">
+      <created>1628190054586</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1628190054586</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Advances">
+      <created>1628192588222</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1628192588222</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Attempt for map">
+      <created>1628194552312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1628194552312</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Attempt for map">
+      <created>1628195082501</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1628195082501</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Enhancements">
+      <created>1628723391300</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1628723391300</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update">
+      <created>1628927350618</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1628927350618</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,7 +222,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -97,56 +242,210 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+    <MESSAGE value="Some HUGE enhancements" />
+    <MESSAGE value="Changes" />
+    <MESSAGE value="Firebase initialization" />
+    <MESSAGE value="Link API" />
+    <MESSAGE value="Initial app" />
+    <MESSAGE value="Authentification" />
+    <MESSAGE value="Advances" />
+    <MESSAGE value="Attempt for map" />
+    <MESSAGE value="Enhancements" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="125" width="1592" height="819" key="AVDManager" timestamp="1628750541812">
+    <state x="760" y="246" width="877" height="447" key="#Notifications" timestamp="1627155734895">
       <screen x="0" y="25" width="1792" height="1019" />
     </state>
-    <state x="100" y="125" width="1592" height="819" key="AVDManager/0.25.1792.1019@0.25.1792.1019" timestamp="1628750541812" />
-    <state width="1750" height="316" key="GridCell.Tab.0.bottom" timestamp="1629662673167">
+    <state x="760" y="246" width="877" height="447" key="#Notifications/0.25.1792.1019@0.25.1792.1019" timestamp="1627155734895" />
+    <state x="645" y="414" key="#Updates" timestamp="1627455621171">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="274" key="GridCell.Tab.0.bottom/-52.-1055.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1629659750052" />
-    <state width="1750" height="316" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662673167" />
-    <state width="1750" height="274" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.25.1792.1019@0.25.1792.1019" timestamp="1629662254912" />
-    <state width="1750" height="317" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1628838344225" />
-    <state width="1750" height="316" key="GridCell.Tab.0.center" timestamp="1629662673165">
+    <state x="645" y="414" key="#Updates/0.0.1792.1120@0.0.1792.1120" timestamp="1627455621171" />
+    <state x="356" y="186" width="1085" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627155818639">
+      <screen x="0" y="25" width="1792" height="1019" />
+    </state>
+    <state x="356" y="186" width="1085" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1792.1019@0.25.1792.1019" timestamp="1627155818639" />
+    <state x="590" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1627648273552">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="274" key="GridCell.Tab.0.center/-52.-1055.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1629659750051" />
-    <state width="1750" height="316" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662673165" />
-    <state width="1750" height="274" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.25.1792.1019@0.25.1792.1019" timestamp="1629662254909" />
-    <state width="1750" height="317" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1628838344224" />
-    <state width="1750" height="316" key="GridCell.Tab.0.left" timestamp="1629662673164">
+    <state x="580" y="-847" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1627164487767" />
+    <state x="590" y="242" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1627648273552" />
+    <state x="946" y="-887" key="#xdebugger.evaluate" timestamp="1628191916356">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="946" y="-887" key="#xdebugger.evaluate/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1628191916356" />
+    <state x="281" y="-948" key="#xdebugger.evaluate/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627678045782" />
+    <state x="931" y="200" key="#xdebugger.evaluate/0.0.1792.1120@0.0.1792.1120" timestamp="1627849425158" />
+    <state x="664" y="-796" key="AndroidProcessChooserDialog" timestamp="1627677355705">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="664" y="-796" key="AndroidProcessChooserDialog/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1627677355705" />
+    <state x="668" y="294" key="AndroidProcessChooserDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1627377481448" />
+    <state width="544" height="546" key="DebuggerActiveHint" timestamp="1627675808171">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="544" height="546" key="DebuggerActiveHint/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1627675808171" />
+    <state width="1878" height="99" key="GridCell.Tab.0.bottom" timestamp="1629216419769">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="99" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1629216419769" />
+    <state width="1750" height="233" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1628888113343" />
+    <state width="1868" height="278" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627677115388" />
+    <state width="1740" height="183" key="GridCell.Tab.0.bottom/-52.-1080.1920.1080/0.25.1792.1095@0.25.1792.1095" timestamp="1628189166261" />
+    <state width="1750" height="233" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1628863690322" />
+    <state width="1740" height="262" key="GridCell.Tab.0.bottom/0.25.1792.1019@0.25.1792.1019" timestamp="1627155936991" />
+    <state width="1878" height="99" key="GridCell.Tab.0.center" timestamp="1629216419768">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="99" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1629216419768" />
+    <state width="1750" height="233" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1628888113338" />
+    <state width="1868" height="278" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627677115387" />
+    <state width="1740" height="183" key="GridCell.Tab.0.center/-52.-1080.1920.1080/0.25.1792.1095@0.25.1792.1095" timestamp="1628189166258" />
+    <state width="1750" height="233" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1628863690321" />
+    <state width="1740" height="262" key="GridCell.Tab.0.center/0.25.1792.1019@0.25.1792.1019" timestamp="1627155936991" />
+    <state width="1878" height="99" key="GridCell.Tab.0.left" timestamp="1629216419767">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="99" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1629216419767" />
+    <state width="1750" height="233" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1628888113336" />
+    <state width="1868" height="278" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627677115387" />
+    <state width="1740" height="183" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.25.1792.1095@0.25.1792.1095" timestamp="1628189166256" />
+    <state width="1750" height="233" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1628863690320" />
+    <state width="1740" height="262" key="GridCell.Tab.0.left/0.25.1792.1019@0.25.1792.1019" timestamp="1627155936990" />
+    <state width="1878" height="99" key="GridCell.Tab.0.right" timestamp="1629216419768">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="99" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1629216419768" />
+    <state width="1750" height="233" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1628888113340" />
+    <state width="1868" height="278" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627677115388" />
+    <state width="1740" height="183" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.25.1792.1095@0.25.1792.1095" timestamp="1628189166259" />
+    <state width="1750" height="233" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1628863690322" />
+    <state width="1740" height="262" key="GridCell.Tab.0.right/0.25.1792.1019@0.25.1792.1019" timestamp="1627155936991" />
+    <state x="428" y="173" key="RollbackChangesDialog" timestamp="1627495394639">
+      <screen x="0" y="25" width="1792" height="1019" />
+    </state>
+    <state x="428" y="173" key="RollbackChangesDialog/0.25.1792.1019@0.25.1792.1019" timestamp="1627495394639" />
+    <state x="288" y="108" key="SettingsEditor" timestamp="1628712614972">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="274" key="GridCell.Tab.0.left/-52.-1055.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1629659750050" />
-    <state width="1750" height="316" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662673164" />
-    <state width="1750" height="274" key="GridCell.Tab.0.left/-52.-1080.1920.1080/0.25.1792.1019@0.25.1792.1019" timestamp="1629662254908" />
-    <state width="1750" height="317" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1628838344224" />
-    <state width="1750" height="316" key="GridCell.Tab.0.right" timestamp="1629662673166">
+    <state x="288" y="108" key="SettingsEditor/-52.-1055.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1628712614972" />
+    <state x="257" y="-976" key="SettingsEditor/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1628192990771" />
+    <state x="288" y="108" key="SettingsEditor/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1628712477581" />
+    <state x="257" y="-976" key="SettingsEditor/-52.-1080.1920.1080/0.25.1792.1095@-52.-1080.1920.1080" timestamp="1627671226160" />
+    <state x="288" y="108" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1627844617399" />
+    <state x="372" y="-854" key="Vcs.Push.Dialog.v2" timestamp="1628927393333">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="372" y="-854" key="Vcs.Push.Dialog.v2/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1628927393333" />
+    <state x="396" y="234" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1628723399703" />
+    <state x="650" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627587322477">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state width="1750" height="274" key="GridCell.Tab.0.right/-52.-1055.1920.1055/0.25.1792.1019@0.25.1792.1019" timestamp="1629659750051" />
-    <state width="1750" height="316" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662673166" />
-    <state width="1750" height="274" key="GridCell.Tab.0.right/-52.-1080.1920.1080/0.25.1792.1019@0.25.1792.1019" timestamp="1629662254911" />
-    <state width="1750" height="317" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1628838344225" />
-    <state x="650" y="266" key="RollbackChangesDialog" timestamp="1629662815461">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="650" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1792.1120@0.0.1792.1120" timestamp="1627587322477" />
+    <state x="355" y="-870" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627677237826">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="650" y="266" key="RollbackChangesDialog/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662815461" />
-    <state x="496" y="270" key="Vcs.Push.Dialog.v2" timestamp="1629662514907">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="355" y="-870" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1627677225631" />
+    <state x="355" y="-870" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627677237826" />
+    <state x="541" y="263" width="977" height="574" key="find.popup" timestamp="1628723776804">
+      <screen x="0" y="25" width="1792" height="1019" />
     </state>
-    <state x="496" y="270" key="Vcs.Push.Dialog.v2/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662514907" />
-    <state x="496" y="271" key="Vcs.Push.Dialog.v2/-52.-1080.1920.1080/0.25.1792.1019@0.25.1792.1019" timestamp="1629662050911" />
-    <state x="561" y="251" width="670" height="678" key="search.everywhere.popup" timestamp="1629662778098">
-      <screen x="0" y="0" width="1792" height="1120" />
+    <state x="528" y="-827" width="1106" height="642" key="find.popup/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1628194884498" />
+    <state x="541" y="262" width="1106" height="596" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1628261505082" />
+    <state x="541" y="263" width="977" height="574" key="find.popup/0.25.1792.1019@0.25.1792.1019" timestamp="1628723776804" />
+    <state x="459" y="-1080" width="898" height="1080" key="search.everywhere.popup" timestamp="1629661018995">
+      <screen x="-52" y="-1080" width="1920" height="1080" />
     </state>
-    <state x="561" y="251" width="670" height="678" key="search.everywhere.popup/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629662778098" />
-    <state x="561" y="253" width="670" height="616" key="search.everywhere.popup/-52.-1080.1920.1080/0.25.1792.1019@0.25.1792.1019" timestamp="1629661962065" />
-    <state x="561" y="251" width="670" height="676" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1628726896671" />
+    <state x="459" y="-1080" width="898" height="1080" key="search.everywhere.popup/-52.-1055.1920.1055/0.25.1792.1019@-52.-1055.1920.1055" timestamp="1628928490896" />
+    <state x="459" y="-1080" width="898" height="1080" key="search.everywhere.popup/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1629661018995" />
+    <state x="459" y="-1080" width="898" height="1080" key="search.everywhere.popup/-52.-1080.1920.1080/0.25.1792.1019@-52.-1080.1920.1080" timestamp="1627678187584" />
+    <state x="459" y="-1080" width="899" height="1080" key="search.everywhere.popup/-52.-1080.1920.1080/0.25.1792.1095@-52.-1080.1920.1080" timestamp="1628190067695" />
+    <state x="477" y="0" width="839" height="1120" key="search.everywhere.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1628847917912" />
+    <state x="477" y="25" width="839" height="1019" key="search.everywhere.popup/0.25.1792.1019@0.25.1792.1019" timestamp="1628723777677" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/miniview/mini_map.dart</url>
+          <line>41</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/place_detail_screen.dart</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/network/model/formmodel/link_form_model.dart</url>
+          <line>26</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/network/model/place.dart</url>
+          <line>38</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/widgets/dialogs/add_idea_dialog.dart</url>
+          <line>78</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/widgets/dialogs/add_idea_dialog.dart</url>
+          <line>87</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/widgets/dialogs/add_idea_dialog.dart</url>
+          <line>70</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/widgets/dialogs/add_place_dialog.dart</url>
+          <line>25</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/network/constants.dart</url>
+          <line>34</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/example_popup.dart</url>
+          <line>27</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/network/constants.dart</url>
+          <line>27</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/example_popup.dart</url>
+          <line>26</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/presentation/miniview/mini_map.dart</url>
+          <line>25</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/SizeConfig.dart</url>
+          <line>29</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint suspend="THREAD" type="dart-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
