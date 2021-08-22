@@ -26,9 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30dafa6b-bed2-413b-ab47-220e577fc653" name="Default Changelist" comment="Enhancements">
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629665187061</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Enhancements">
+      <created>1629665366481</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1629665366481</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -392,11 +397,11 @@
     <state x="288" y="108" key="SettingsEditor/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1628712477581" />
     <state x="257" y="-976" key="SettingsEditor/-52.-1080.1920.1080/0.25.1792.1095@-52.-1080.1920.1080" timestamp="1627671226160" />
     <state x="288" y="108" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1627844617399" />
-    <state x="396" y="234" key="Vcs.Push.Dialog.v2" timestamp="1629665189917">
+    <state x="396" y="234" key="Vcs.Push.Dialog.v2" timestamp="1629665370773">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="372" y="-854" key="Vcs.Push.Dialog.v2/-52.-1080.1920.1080/0.0.1792.1120@-52.-1080.1920.1080" timestamp="1628927393333" />
-    <state x="396" y="234" key="Vcs.Push.Dialog.v2/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629665189917" />
+    <state x="396" y="234" key="Vcs.Push.Dialog.v2/-52.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1629665370773" />
     <state x="396" y="234" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1628723399703" />
     <state x="650" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1627587322477">
       <screen x="0" y="0" width="1792" height="1120" />
